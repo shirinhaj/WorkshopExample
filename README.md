@@ -1,1 +1,1 @@
-# UnityProject-WorkshopExample-
+# UnityProject WorkshopExample
