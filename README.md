@@ -14,7 +14,7 @@ This unity project includes some example assets such as 3D models, materials, te
 
 
 ## Links to slides of the course
-* [Link to the Slides](https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1](https://liveunibo-my.sharepoint.com/:p:/r/personal/shirin_hajahmadi_studio_unibo_it/_layouts/15/Doc.aspx?sourcedoc=%7BA0340C2D-15C2-41AC-9236-34BD5CAF6CE1%7D&file=WorkshopSlides.pptx&action=edit&mobileredirect=true&wdsle=0&wdOrigin=OUTLOOK-METAOS.FILEBROWSER.FILES-HOME)
+* [Link to the Slides](https://liveunibo-my.sharepoint.com/:p:/r/personal/shirin_hajahmadi_studio_unibo_it/_layouts/15/Doc.aspx?sourcedoc=%7BA0340C2D-15C2-41AC-9236-34BD5CAF6CE1%7D&file=WorkshopSlides.pptx&action=edit&mobileredirect=true&wdsle=0&wdOrigin=OUTLOOK-METAOS.FILEBROWSER.FILES-HOME)
 
 
 	
